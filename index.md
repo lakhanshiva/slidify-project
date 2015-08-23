@@ -1,5 +1,5 @@
 ---
-title       : Ligo sets information retrieval
+title       : Lego sets information retrieval
 subtitle    : lakhanshiva
 author      : lakhanshiva 
 job         : Data analyst
