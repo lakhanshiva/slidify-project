@@ -1,0 +1,42 @@
+---
+title       : Lego sets information retrieval
+subtitle    : lakhanshiva
+author      : lakhanshiva 
+job         : Data analyst
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Problem
+
+I want to make decisions on property investments based on the property's rental yield and holding cost. 
+
+Better still, it would be great to be able to make comparisons of these numbers to properties that I'm currently interested in.
+
+This will make is for searching and visulizating LEGO Sets information.
+
+---
+
+## Proposed Solution
+
+The solution is a web application.This will make it easier for us to peek into LEGO sets. Stage is set for running a search query and performing visualization.
+
+---
+
+## Submitted Solution
+
+This Shiny App searches and visualizes LEGO Sets information falling in the year range 1950 to 2015. The total number of set records is 10418 and that of theme records is 101. The dataset is from Rebrickable.com that contains the basic information of each set which are set id, year, number of pieces, theme, set name.
+
+---
+
+## Thanks and feedback location
+
+I hope this helps you with data visualization.
+
+Please direct feedback to lakhanshiva@gmail.com.
+
+Thanks you for your time and feedback.
